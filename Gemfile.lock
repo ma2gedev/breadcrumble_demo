@@ -27,7 +27,7 @@ GEM
       tzinfo (~> 0.3.37)
     arel (4.0.0)
     atomic (1.1.9)
-    breadcrumble (3.0.2)
+    breadcrumble (3.0.3)
       rails (>= 4.0.0.rc1)
     builder (3.1.4)
     coffee-rails (4.0.0)
@@ -112,7 +112,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  breadcrumble (~> 3.0.0)
+  breadcrumble (~> 3.0.3)
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.0.1)
   jquery-rails

@@ -1,6 +1,6 @@
 BreadcrumbleApp::Application.routes.draw do
   get "features/index"
-  get "features/show"
+  get "features/multiple_breadcrumb"
 
   root "features#index"
 
